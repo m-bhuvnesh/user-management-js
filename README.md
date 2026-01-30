@@ -1,28 +1,27 @@
-# user-management-js
-A lightweight task manager built using Vanilla JavaScript.
-Demonstrates core JavaScript concepts like arrays, objects, functions, and loops.
+# User Management System (Vanilla JS)
+
+A simple user management system built using **HTML, CSS, and Vanilla JavaScript**.
 
 ## Features
-- Add, edit, and delete tasks
-- Mark tasks as completed
-- Data persistence using Local Storage
-- Clean and simple UI
+- Add users with role (Admin/User)
+- Toggle active/inactive status
+- Delete users
+- Filter users (All / Active / Admin)
+- Responsive UI (mobile + desktop)
 
-## JavaScript Concepts Used
-- Arrays & Objects
-- Functions (normal & arrow)
-- Loops & Conditions
-- DOM Manipulation
-- Event Handling
-- Local Storage
+## Concepts Used
+- JavaScript arrays & objects
+- DOM manipulation
+- Event handling
+- map / filter usage
+- Conditional rendering
 
-## How to Run
-1. Clone the repository
-2. Open index.html in your browser
-3. Start managing tasks
+## Purpose
+This project is part of my **Frontend SDE-2 preparation**, focusing on strong JavaScript fundamentals and clean logic.
 
-## Future Improvements
-- Add task categories
-- Improve UI with animations
-- Add search and filter functionality
+## Tech Stack
+- HTML
+- CSS
+- JavaScript (No frameworks)
 
+---
